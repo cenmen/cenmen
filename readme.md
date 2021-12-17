@@ -6,6 +6,7 @@
 2. 点对点实时聊天 [https://github.com/cenmen/chat](https://github.com/cenmen/chat)
 3. node 文件上传 [https://github.com/cenmen/upload-server](https://github.com/cenmen/upload-server)
 4. 封装一个 upload 组件 [https://github.com/cenmen/uploader](https://github.com/cenmen/uploader)
+5. 阅读 events 源码输出精简使用版 [https://github.com/cenmen/events](https://github.com/cenmen/events)
 5. 秒杀活动
 
 ## 源码仓库阅读
@@ -13,6 +14,7 @@
  - [history](https://github.com/remix-run/history)
  - [axios](https://github.com/axios/axios)
  - [element upload 组件](https://github.com/ElemeFE/element/tree/dev/packages/upload)
+ - [events](https://github.com/browserify/events)
  - [flv.js](https://github.com/bilibili/flv.js)
 
 ## Repository
