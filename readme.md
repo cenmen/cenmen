@@ -1,3 +1,6 @@
+## Motto
+多写多练多思考
+
 ## Plan
 1. element 组件 upload 源码
   ```
@@ -7,7 +10,10 @@
 3. node 文件上传 [https://github.com/cenmen/upload-server](https://github.com/cenmen/upload-server)
 4. 封装一个 upload 组件 [https://github.com/cenmen/uploader](https://github.com/cenmen/uploader)
 5. 阅读 events 源码输出精简使用版 [https://github.com/cenmen/events](https://github.com/cenmen/events)
-5. 秒杀活动
+6. chrome 扩展程序 - CSDN文章纯净器 [https://github.com/cenmen/csdn-extension](https://github.com/cenmen/csdn-extension)
+7. chrome 扩展程序 - B站斗鱼虎牙弹幕自刷器 [https://github.com/cenmen/barrage-extension](https://github.com/cenmen/barrage-extension)
+8. chrome 扩展程序 - 12306自动抢票器 [https://github.com/cenmen/12306-ticket-extension](https://github.com/cenmen/12306-ticket-extension)
+5. ~秒杀活动~
 
 ## 源码仓库阅读
  - [react-router](https://github.com/remix-run/react-router)
