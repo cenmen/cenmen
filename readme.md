@@ -13,6 +13,7 @@
 6. chrome 扩展程序 - CSDN文章纯净器 [https://github.com/cenmen/csdn-extension](https://github.com/cenmen/csdn-extension)
 7. chrome 扩展程序 - B站斗鱼虎牙弹幕自刷器 [https://github.com/cenmen/barrage-extension](https://github.com/cenmen/barrage-extension)
 8. chrome 扩展程序 - 12306自动抢票器 [https://github.com/cenmen/12306-ticket-extension](https://github.com/cenmen/12306-ticket-extension)
+9. 封装一个 select 组件 [https://github.com/cenmen/multiple-select](https://github.com/cenmen/multiple-select)
 5. ~秒杀活动~
 
 ## 源码仓库阅读
@@ -28,3 +29,6 @@
  - [javascript-questions](https://github.com/lydiahallie/javascript-questions) JS 问题
  - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) [中文版](https://github.com/beginor/clean-code-javascript) 代码风格指南
  - [javascript](https://github.com/airbnb/javascript) 代码风格指南
+
+## 指南
+ - [chrome 插件(扩展)开发全攻略](https://www.cnblogs.com/liuxianan/p/chrome-plugin-develop.html)
