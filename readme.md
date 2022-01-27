@@ -2,7 +2,7 @@
 
 多写多练多思考
 
-## TODO
+## STEP
 
 1. element 组件 upload 源码
 
@@ -22,7 +22,12 @@
 11. PC 端脚手架 [https://github.com/cenmen/react-pc](https://github.com/cenmen/react-pc)
 12. h5 端单页面脚手架 [https://github.com/cenmen/react-h5](https://github.com/cenmen/react-h5)
 13. h5 端多页面脚手架 [https://github.com/cenmen/react-multiple-h5](https://github.com/cenmen/react-multiple-h5)
-14. ~~秒杀活动~~
+14. B 站视频 & 音频下载工具 [https://github.com/cenmen/bilibili-media-download](https://github.com/cenmen/bilibili-media-download)
+15. PC 端脚手架(Vue3.x) [https://github.com/cenmen/vue-pc](https://github.com/cenmen/vue-pc)
+
+## TODO
+1. create-react-app 脚手架源码阅读 & 优化旧版项目架构
+
 
 ## 源码仓库阅读
 
@@ -40,8 +45,24 @@
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) [中文版](https://github.com/beginor/clean-code-javascript) 代码风格指南
 - [javascript](https://github.com/airbnb/javascript) 代码风格指南
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) 许多有意思的函数
+- [weekly](https://github.com/ascoders/weekly) 前端精读文章
+- [common-regex](https://github.com/cdoco/common-regex) 常用简单正则
 
-## nodejs
+## 常用工具集录
+
+### webpack
+  - lodaer
+    - [style-loader]()
+    - [css-loader]()
+    - [babel-loader]()
+  - plugins
+    - [html-webpack-plugin]()
+    - [mini-css-extract-plugin]()
+    - [css-minimizer-webpack-plugin]()
+    - [webpackbar]()
+    - [webpack-bundle-analyzer]()
+
+### nodejs
 
 - [colors](https://github.com/Marak/colors.js)
 - [cli-progress](https://github.com/npkgz/cli-progress)

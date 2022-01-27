@@ -1,5 +1,6 @@
 ## 参考资料
- - [TypeScript Learn](https://github.com/JasonkayZK/typescript-learn)
+
+- [TypeScript Learn](https://github.com/JasonkayZK/typescript-learn)
 
 ## **TypeScript 中的基本类型**
 
