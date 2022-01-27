@@ -26,7 +26,7 @@
 15. PC 端脚手架(Vue3.x) [https://github.com/cenmen/vue-pc](https://github.com/cenmen/vue-pc)
 
 ## TODO
-1. create-react-app 脚手架源码阅读 & 优化旧版项目架构
+1. * [x] create-react-app 脚手架源码阅读 & 优化旧版项目架构
 
 
 ## 源码仓库阅读
