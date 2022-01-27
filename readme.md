@@ -27,7 +27,7 @@
 
 ## TODO
 1. * [x] create-react-app 脚手架源码阅读 & 优化旧版项目架构
-
+2. * [ ] 使用 mongodb
 
 ## 源码仓库阅读
 
@@ -51,9 +51,10 @@
 ## 常用工具集录
 
 ### webpack
-  - lodaer
+  - loader
     - [style-loader]()
     - [css-loader]()
+    - ~~[file-loader]()~~
     - [babel-loader]()
   - plugins
     - [html-webpack-plugin]()
@@ -61,12 +62,14 @@
     - [css-minimizer-webpack-plugin]()
     - [webpackbar]()
     - [webpack-bundle-analyzer]()
+    - [cross-env]()
 
 ### nodejs
 
-- [colors](https://github.com/Marak/colors.js)
+- ~~[colors](https://github.com/Marak/colors.js)~~
 - [cli-progress](https://github.com/npkgz/cli-progress)
 - [axios](https://github.com/axios/axios)
 - [express](https://github.com/expressjs/express)
 - [cors](https://github.com/expressjs/cors)
 - [inquirer](https://github.com/SBoudrias/Inquirer.js)
+- [body-parser]()
