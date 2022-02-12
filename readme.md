@@ -28,6 +28,8 @@
 ## TODO
 1. * [x] create-react-app 脚手架源码阅读 & 优化旧版项目架构
 2. * [ ] 使用 mongodb
+3. * [ ] 学习 vite
+3. * [ ] 使用 gitbook 整理个人技术
 
 ## 源码仓库阅读
 
@@ -47,6 +49,7 @@
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) 许多有意思的函数
 - [weekly](https://github.com/ascoders/weekly) 前端精读文章
 - [common-regex](https://github.com/cdoco/common-regex) 常用简单正则
+- [front-end-knowledges](https://github.com/dennis-jiang/Front-End-Knowledges) 优质文章
 
 ## 常用工具集录
 
