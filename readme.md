@@ -24,6 +24,7 @@
 13. h5 端多页面脚手架 [https://github.com/cenmen/react-multiple-h5](https://github.com/cenmen/react-multiple-h5)
 14. B 站视频 & 音频下载工具 [https://github.com/cenmen/bilibili-media-download](https://github.com/cenmen/bilibili-media-download)
 15. PC 端脚手架(Vue3.x) [https://github.com/cenmen/vue-pc](https://github.com/cenmen/vue-pc)
+15. 个人歌单记录助手(小程序) [https://github.com/cenmen/musics](https://github.com/cenmen/musics)
 
 ## TODO
 1. * [x] create-react-app 脚手架源码阅读 & 优化旧版项目架构
